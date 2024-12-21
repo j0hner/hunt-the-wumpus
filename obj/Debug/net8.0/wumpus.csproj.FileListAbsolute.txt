@@ -1,0 +1,14 @@
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.AssemblyInfoInputs.cache
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.AssemblyInfo.cs
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.csproj.CoreCompileInputs.cache
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\bin\Debug\net8.0\wumpus.exe
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\bin\Debug\net8.0\wumpus.deps.json
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\bin\Debug\net8.0\wumpus.runtimeconfig.json
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\bin\Debug\net8.0\wumpus.dll
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\bin\Debug\net8.0\wumpus.pdb
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.dll
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\refint\wumpus.dll
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.pdb
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\wumpus.genruntimeconfig.cache
+D:\Work\coding\C#\vs code\C# code\hunt the wumpus\wumpus\obj\Debug\net8.0\ref\wumpus.dll

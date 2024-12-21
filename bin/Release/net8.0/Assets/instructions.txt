@@ -1,0 +1,33 @@
+╔═════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Hunt The Wumpus                                                                             ║
+║                                                                                             ║
+║ You, a young adventurer were tasked to kill the Wumpus,                                     ║
+║ who is a monster that lives in a cave of 20 caverns.                                        ║
+║                                                                                             ║
+║ Your task won't be easy as the cave contains various hazards:                               ║
+║                                                                                             ║
+║        pits   --   These bottomles pits will end your adventure, as when you enter a cavern ║
+║                    containing one of these you'll inevitably fall down and safe to say: you ║
+║                    will not be returning home. Their presence can be identified by a light  ║
+║                    breeze in the adjecent caverns.                                          ║
+║                                                                                             ║
+║        bats   --   In the Wumpus cave there lives a special specimen of bats. The bats will ║
+║                    take any unfortunate explorer who stumbles into them and carry him to an ║
+║                    another location in the cave. They can be detected by flaping of wings   ║
+║                    being heard in the adjevent caverns.                                     ║
+║                                                                                             ║
+║        Wumpus  --  The Wumpus is a mysterious creature, that has a special liking in eating ║
+║                    young explorers, and therefore entering his cavern is not recomanded. He ║
+║                    he is also imune to hazards as he has sucker feet and is too heavy to be ║
+║                    lifted by bats. He has a strong stench, which can be smelled in adjecent ║
+║                    caverns.                                                                 ║
+║                                                                                             ║
+║ To kill the Wumpus, you have one arrow which you have to shoot into the Wumpuses cavern     ║
+║ from an adjecent room. If you kill the wumpus you win, however if you miss the Wumpus       ║
+║ will find you and end your run in a loss.                                                   ║
+║                                                                                             ║
+║ There are two actions, Move or shoot. In the prompt you can type "m" or "s" to switch       ║
+║ actions, or a room number from the a graphic above the prompt.                              ║
+║                                                                                             ║
+║ (Enter to continue)                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════╝
